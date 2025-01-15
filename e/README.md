@@ -1,1 +1,1 @@
-# I'm not associated with Eagtek or Mojang, and none of these clients were made by me. I'm hosting these HTML files (that have already been published countless times by people) for archivation purposes, and to let people frolick around school blocking systems. I have not worked on Eaglercraft.
+# I'm not associated with Eagtek or Mojang, and none of these clients were made by me. I'm hosting these HTML files (that have already been published countless times by people) for archivation purposes. I have not worked on Eaglercraft.
