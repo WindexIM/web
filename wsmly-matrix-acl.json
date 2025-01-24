@@ -1,0 +1,33 @@
+{
+  "allow": [
+    "*"
+  ],
+  "allow_ip_literals": false,
+  "deny": [
+    "cpluspatch.dev",
+    "*.cpluspatch.dev",
+    "4d2.org",
+    "*.4d2.org",
+    "cutefunny.art",
+    "*.cutefunny.art",
+    "kimapr.net",
+    "*.kimapr.net",
+    "envs.net",
+    "*.envs.net",
+    "transfem.dev",
+    "*.transfem.dev",
+    "girlboss.ceo",
+    "*.girlboss.ceo",
+    "puppygock.gay",
+    "*.puppygock.gay",
+    "girlcock.systems",
+    "*.girlcock.systems",
+    "cia.govt.hu",
+    "the-apothecary.club",
+    "*.the-apothecary.club",
+    "lolispace.moe",
+    "*.lolispace.moe",
+    "constellatory.net",
+    "*.constellatory.net"
+  ]
+}
